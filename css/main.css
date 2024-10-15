@@ -1138,8 +1138,8 @@ img {
 }
 
 .img-menu-PBO {
-    width: auto;
-    height: auto;
+    width: 8%;
+    height: 8%;
 }
 
 .img-line-PBO {
@@ -1156,3 +1156,6 @@ font-size: 11px;
 letter-spacing: 5px;
 color: #AAA;
 }
+
+
+
