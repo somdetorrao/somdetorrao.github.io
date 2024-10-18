@@ -180,6 +180,7 @@ button:focus,
 .header {
     padding-top: 22px;
     padding-bottom: 3px
+     font-family: 'Poppin', serif;
 }
 
 .header.header-fixed-top {
@@ -268,15 +269,17 @@ button:focus,
 
 .nav-icon {
     float: right;
-    font-family: 'Oranienbaum', serif;
+    font-family: 'Poppin', serif;
     display: block;
-    position: relative;
+    position: absolute;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 24px;
     letter-spacing: 7px;
-    margin-top: 22px;
-    color: #222222;
+    margin-top: 42px;
+    color: white ;
     background-color: white;
+    padding-left: 6.5vw;
+    
 }
 
 
@@ -301,7 +304,8 @@ button:focus,
     background-image: url(../images/nav.png);
     background-repeat: no-repeat;
     background-position: 0 7px;
-    padding-left: 11px
+    padding-left: 11px;
+
 }
 
 .over {
@@ -596,11 +600,13 @@ button:focus,
     font-size: 15px;
     padding-top: 14px;
     letter-spacing: 6px;
+     font-family: 'Poppins'
 }
 
 .mail-to {
     padding-top: 5px;
     letter-spacing: 4px;
+     font-family: 'Poppins'
 }
 
 .padding-top {
@@ -1141,6 +1147,7 @@ img {
     width: 8%;
     height: 8%;
 }
+/* Check*/
 
 .img-line-PBO {
     width: 7.5vw;
