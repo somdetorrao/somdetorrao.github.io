@@ -284,7 +284,6 @@ button:focus,
 /*menu e icono*/
 
 .menu {
-    transition: all 0.40s ease-out;
     width: 70px;
     height: 30px;
     cursor: pointer;
