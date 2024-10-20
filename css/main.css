@@ -268,7 +268,7 @@ button:focus,
 
 .nav-icon {
     float: left;
-    font-family: 'Oranienbaum', serif;
+    font-family: 'Poppins', serif;
     display: block;
     position: relative;
     text-transform: uppercase;
@@ -428,7 +428,7 @@ button:focus,
 .main-menu ul li {
     width: 100%;
     display: inline-block;
-    font-family: 'Oranienbaum', serif;
+    font-family: 'Poppins', serif;
     font-size: 30px;
     margin-bottom: 30px;
     font-weight: 400;
@@ -489,6 +489,7 @@ button:focus,
     z-index: 6;
     margin: 0 auto;
     margin-bottom: 50px;
+    font-family: 'Poppins', serif;
     /* Adjust as needed */
 }
 
@@ -543,7 +544,7 @@ button:focus,
     font-size: 17px;
     letter-spacing: 1px;
     font-weight: 500;
-    font-family: 'Oranienbaum', serif;
+    font-family: 'Poppins', serif;
     z-index: 10;
     /* Ensure this is higher than other elements */
 }
@@ -634,7 +635,8 @@ button:focus,
 ========================================================================== */
 
 .main-wrapper-inner {
-    margin-bottom: 50px
+    margin-bottom: 50px;
+    font-family: 'Poppins', serif;
 }
 
 .wrapper-inner {
@@ -642,7 +644,8 @@ button:focus,
     width: 100%;
     max-width: 1031px;
     padding-top: 71px;
-    padding-bottom: 20px
+    padding-bottom: 20px;
+    font-family: 'Poppins', serif;
 }
 
 .inner-left {
@@ -680,7 +683,8 @@ button:focus,
     line-height: 30px;
     font-weight: 400;
     padding-bottom: 20px;
-    font-weight: 300
+    font-weight: 300;
+    font-family: 'Poppin', serif;
 }
 
 
@@ -1077,7 +1081,7 @@ button:focus,
 }
 
 .section-title {
-    font-family: 'Oranienbaum', serif;
+    font-family: 'Poppins', serif;
     color: #000000;
     font-weight: 100;
     font-size: 30px;
@@ -1087,7 +1091,7 @@ button:focus,
 }
 
 .section-title-subtitle {
-    font-family: 'Oranienbaum', serif;
+    font-family: 'Poppins', serif;
     color: #000000;
     font-weight: 100;
     font-size: 22px;
@@ -1160,4 +1164,14 @@ img {
     font-size: 11px;
     letter-spacing: 5px;
     color: #AAA;
+}
+
+.section-title {
+    font-family: 'Poppins', serif;
+    color: #000000;
+    font-weight: 100;
+    font-size: 30px;
+    overflow-x: none;
+    text-align: center;
+    letter-spacing: 5px;
 }
