@@ -444,7 +444,7 @@ button:focus,
 
 .main-menu ul li {
     position: relative;
-    ;
+    font-family: 'Poppins', serif;
 }
 
 .main-menu ul li:after {
@@ -465,10 +465,12 @@ button:focus,
 
 .main-menu ul li:hover:after {
     width: 15%;
+    font-family: 'Poppins', serif;
 }
 
 .main-menu ul li.active:after {
     width: 15%;
+    font-family: 'Poppins', serif;
 }
 
 .main-menu ul li a {
@@ -1064,6 +1066,7 @@ button:focus,
 
 .main-menu ul li:hover .sub-menu {
     display: block;
+    font-family: 'Poppins', serif;
 }
 
 .sub-menu {
