@@ -594,7 +594,7 @@ button:focus,
 }
 
 .copy-right {
-    font-size: 15px;
+    font-size: auto;
     padding-top: 14px;
     letter-spacing: 6px;
     font-family: 'Poppins'
