@@ -495,7 +495,7 @@ button:focus,
     position: relative;
     z-index: 6;
     margin: 0 auto;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     font-family: 'Poppins', serif;
     /* Adjust as needed */
 }
@@ -644,17 +644,12 @@ button:focus,
 
 ========================================================================== */
 
-.main-wrapper-inner {
-    margin-bottom: 50px;
-    font-family: 'Poppins', serif;
-}
-
 .wrapper-inner {
     margin: auto;
     width: 100%;
     max-width: 1031px;
-    padding-top: 71px;
-    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 50px;
     font-family: 'Poppins', serif;
 }
 
