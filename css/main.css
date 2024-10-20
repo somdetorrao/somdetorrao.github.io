@@ -178,7 +178,7 @@ button:focus,
 ========================================================================== */
 
 .header {
-    padding-top: 22px;
+    padding-top: 10px;
     padding-bottom: 3px font-family: 'Poppin', serif;
 }
 
@@ -192,7 +192,6 @@ button:focus,
 }
 
 .header.header-fixed-top .menu-expanded {
-    padding-top: 15px;
     color: red;
 }
 
@@ -1152,6 +1151,21 @@ img {
 .img-menu-PBO {
     width: auto;
     height: 50px;
+}
+
+@media (max-width: 768px) {
+    .img-menu-PBO {
+        height: 40px;
+        /* Adjust height for mobile screens */
+        max-width: 100%;
+        /* Make sure the image does not exceed the container */
+    }
+    .nav-icon {
+        font-size: 12px;
+        /* Adjust the font size if necessary */
+        letter-spacing: 5px;
+        /* Adjust letter spacing for smaller screens */
+    }
 }
 
 
