@@ -179,8 +179,7 @@ button:focus,
 
 .header {
     padding-top: 22px;
-    padding-bottom: 3px
-     font-family: 'Poppin', serif;
+    padding-bottom: 3px font-family: 'Poppin', serif;
 }
 
 .header.header-fixed-top {
@@ -269,13 +268,13 @@ button:focus,
 
 .nav-icon {
     float: left;
-    font-family: 'Poppin', serif;
+    font-family: 'Oranienbaum', serif;
     display: block;
     position: relative;
-    /*text-transform: uppercase;*/
-    font-size: 20px;
-    letter-spacing: 14px;
-    margin-top: 12px;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 7px;
+    margin-top: 22px;
     color: #222222;
     background-color: white;
 }
@@ -297,12 +296,12 @@ button:focus,
 
 .nav-icon p {
     position: absolute;
-    left: 0;
+    right: 0;
     top: 0;
     background-image: url(../images/nav.png);
     background-repeat: no-repeat;
     background-position: 0 7px;
-    padding-left: 14px
+    padding-left: 11px
 }
 
 .over {
@@ -597,13 +596,13 @@ button:focus,
     font-size: 15px;
     padding-top: 14px;
     letter-spacing: 6px;
-     font-family: 'Poppins'
+    font-family: 'Poppins'
 }
 
 .mail-to {
     padding-top: 5px;
     letter-spacing: 4px;
-     font-family: 'Poppins'
+    font-family: 'Poppins'
 }
 
 .padding-top {
@@ -1144,6 +1143,8 @@ img {
     width: 8%;
     height: 8%;
 }
+
+
 /* Check*/
 
 .img-line-PBO {
@@ -1151,15 +1152,12 @@ img {
     height: auto;
 }
 
-.link-PBO{
-color: #FFF;
+.link-PBO {
+    color: #FFF;
 }
 
-.disclaimer-browser{
-font-size: 11px;
-letter-spacing: 5px;
-color: #AAA;
+.disclaimer-browser {
+    font-size: 11px;
+    letter-spacing: 5px;
+    color: #AAA;
 }
-
-
-
