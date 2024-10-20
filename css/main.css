@@ -594,10 +594,11 @@ button:focus,
 }
 
 .copy-right {
-    font-size: auto;
+    font-size: 15px;
     padding-top: 14px;
     letter-spacing: 6px;
-    font-family: 'Poppins'
+    font-family: 'Poppins';
+    line-height: 1.5;
 }
 
 .mail-to {
