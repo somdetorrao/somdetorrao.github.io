@@ -1195,3 +1195,13 @@ img {
     text-align: center;
     letter-spacing: 5px;
 }
+
+/*ultmo cambio*/
+.description ul h3{
+text-align:justify;
+font-size:30px;
+letter-spacing: 3px;
+padding: 15px;
+
+
+}
